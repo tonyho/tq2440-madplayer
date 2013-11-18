@@ -1,0 +1,261 @@
+sbase.lo: sbase.c \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/stdio.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+  /opt/EmbedSky/4.3.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/include/stddef.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/libio.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/_G_config.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/wchar.h \
+  /opt/EmbedSky/4.3.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/include/stdarg.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stdio_lim.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sys_errlist.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stdio.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/stdlib.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/waitflags.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/waitstatus.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/xlocale.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/types.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/select.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/select.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/alloca.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/unistd.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix_opt.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/environments.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/confname.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/getopt.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/string.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/string.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/string2.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/fcntl.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/fcntl.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/uio.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/stat.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stat.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/ioctl.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/ioctls.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/ioctls.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/ioctl.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm-generic/ioctl.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/ioctl-types.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/ttydefaults.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/math.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/huge_val.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/huge_valf.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/huge_vall.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/inf.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/nan.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/mathdef.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/mathcalls.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/mathinline.h \
+  ../../../include/asoundlib.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/assert.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/poll.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/poll.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/errno.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/errno.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/linux/errno.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/errno.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm-generic/errno.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm-generic/errno-base.h \
+  ../../../include/alsa/asoundef.h ../../../include/alsa/version.h \
+  ../../../include/alsa/global.h ../../../include/alsa/input.h \
+  ../../../include/alsa/output.h ../../../include/alsa/error.h \
+  ../../../include/alsa/conf.h ../../../include/alsa/pcm.h \
+  ../../../include/alsa/rawmidi.h ../../../include/alsa/timer.h \
+  ../../../include/alsa/hwdep.h ../../../include/alsa/control.h \
+  ../../../include/alsa/mixer.h ../../../include/alsa/seq_event.h \
+  ../../../include/alsa/seq.h ../../../include/alsa/seqmid.h \
+  ../../../include/alsa/seq_midi_event.h ../../../include/mixer_abst.h \
+  sbase.h ../../../include/list.h
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/stdio.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/opt/EmbedSky/4.3.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/include/stddef.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/libio.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/_G_config.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/wchar.h:
+
+/opt/EmbedSky/4.3.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/include/stdarg.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stdio_lim.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sys_errlist.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stdio.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/stdlib.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/waitflags.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/waitstatus.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/xlocale.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/types.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/select.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/select.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/alloca.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/unistd.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix_opt.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/environments.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/confname.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/getopt.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/string.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/string.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/string2.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/fcntl.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/fcntl.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/uio.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/stat.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/stat.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/ioctl.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/ioctls.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/ioctls.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/ioctl.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm-generic/ioctl.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/ioctl-types.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/ttydefaults.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/math.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/huge_val.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/huge_valf.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/huge_vall.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/inf.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/nan.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/mathdef.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/mathcalls.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/mathinline.h:
+
+../../../include/asoundlib.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/assert.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/poll.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/poll.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/errno.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/errno.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/linux/errno.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/errno.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm-generic/errno.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm-generic/errno-base.h:
+
+../../../include/alsa/asoundef.h:
+
+../../../include/alsa/version.h:
+
+../../../include/alsa/global.h:
+
+../../../include/alsa/input.h:
+
+../../../include/alsa/output.h:
+
+../../../include/alsa/error.h:
+
+../../../include/alsa/conf.h:
+
+../../../include/alsa/pcm.h:
+
+../../../include/alsa/rawmidi.h:
+
+../../../include/alsa/timer.h:
+
+../../../include/alsa/hwdep.h:
+
+../../../include/alsa/control.h:
+
+../../../include/alsa/mixer.h:
+
+../../../include/alsa/seq_event.h:
+
+../../../include/alsa/seq.h:
+
+../../../include/alsa/seqmid.h:
+
+../../../include/alsa/seq_midi_event.h:
+
+../../../include/mixer_abst.h:
+
+sbase.h:
+
+../../../include/list.h:

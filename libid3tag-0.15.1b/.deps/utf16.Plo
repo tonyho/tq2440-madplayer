@@ -1,0 +1,72 @@
+utf16.lo: utf16.c config.h global.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/stdlib.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+  /opt/EmbedSky/4.3.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/include/stddef.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/types.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/select.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/select.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/alloca.h \
+  id3tag.h utf16.h ucs4.h
+
+config.h:
+
+global.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/stdlib.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/opt/EmbedSky/4.3.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/include/stddef.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/types.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/select.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/select.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/alloca.h:
+
+id3tag.h:
+
+utf16.h:
+
+ucs4.h:

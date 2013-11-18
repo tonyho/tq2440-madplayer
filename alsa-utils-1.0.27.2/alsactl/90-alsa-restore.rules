@@ -1,0 +1,8 @@
+ACTION=="add", SUBSYSTEM=="sound", KERNEL=="controlC*", KERNELS!="card*", GOTO="alsa_restore_go"
+GOTO="alsa_restore_end"
+
+LABEL="alsa_restore_go"
+TEST!="/etc/alsa/state-daemon.conf", RUN+="/home/tonyho/tq2440/MP3/alsa-utils-1.0.27.2/binout/sbin/alsactl restore $attr{number}"
+TEST=="/etc/alsa/state-daemon.conf", RUN+="/home/tonyho/tq2440/MP3/alsa-utils-1.0.27.2/binout/sbin/alsactl nrestore $attr{number}"
+
+LABEL="alsa_restore_end"

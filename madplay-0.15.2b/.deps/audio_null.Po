@@ -1,0 +1,10 @@
+audio_null.o: audio_null.c config.h global.h \
+  /home/tonyho/tq2440/MP3/libmad-0.15.1b/libout/include/mad.h audio.h
+
+config.h:
+
+global.h:
+
+/home/tonyho/tq2440/MP3/libmad-0.15.1b/libout/include/mad.h:
+
+audio.h:

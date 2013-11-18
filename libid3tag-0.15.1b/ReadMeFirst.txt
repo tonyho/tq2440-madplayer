@@ -1,0 +1,1 @@
+./configure --host=arm-linux --prefix=/home/tonyho/tq2440/MP3/libid3tag-0.15.1b/libout/  CPPFLAGS=-I/home/tonyho/tq2440/MP3/zlib-1.2.8/libout/include/   --enable-static --disable-shared --disable-debugging CC=/opt/EmbedSky/4.3.3/bin/arm-linux-gcc

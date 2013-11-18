@@ -1,0 +1,51 @@
+userfile.lo: userfile.c ../include/config.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/string.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+  /opt/EmbedSky/4.3.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/include/stddef.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/xlocale.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/errno.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/errno.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/linux/errno.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/errno.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm-generic/errno.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm-generic/errno-base.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/wordexp.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/assert.h
+
+../include/config.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/string.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/opt/EmbedSky/4.3.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/include/stddef.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/xlocale.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/errno.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/errno.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/linux/errno.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm/errno.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm-generic/errno.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/asm-generic/errno-base.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/wordexp.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/assert.h:

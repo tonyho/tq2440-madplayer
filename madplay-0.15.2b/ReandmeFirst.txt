@@ -1,0 +1,1 @@
+./configure --host=arm-linux --prefix=/home/tonyho/tq2440/MP3/madplay-0.15.2b/binout/  CPPFLAGS='-I/home/tonyho/tq2440/MP3/zlib-1.2.8/libout/include/ -I/home/tonyho/tq2440/MP3/libmad-0.15.1b/libout/include/ -I/home/tonyho/tq2440/MP3/libid3tag-0.15.1b/libout/include/'   CC=/opt/EmbedSky/4.3.3/bin/arm-linux-gcc

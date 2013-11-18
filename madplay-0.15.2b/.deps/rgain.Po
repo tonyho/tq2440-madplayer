@@ -1,0 +1,40 @@
+rgain.o: rgain.c config.h global.h \
+  /home/tonyho/tq2440/MP3/libmad-0.15.1b/libout/include/mad.h rgain.h \
+  gettext.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/libintl.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+  /opt/EmbedSky/4.3.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/include/stddef.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/locale.h \
+  /opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/locale.h
+
+config.h:
+
+global.h:
+
+/home/tonyho/tq2440/MP3/libmad-0.15.1b/libout/include/mad.h:
+
+rgain.h:
+
+gettext.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/libintl.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/opt/EmbedSky/4.3.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/include/stddef.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/locale.h:
+
+/opt/EmbedSky/4.3.3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/locale.h:

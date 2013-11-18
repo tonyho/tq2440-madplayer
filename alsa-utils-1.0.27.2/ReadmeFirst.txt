@@ -1,0 +1,1 @@
+./configure --prefix=/home/tonyho/tq2440/MP3/alsa-utils-1.0.27.2/binout  --host=arm-linux CC=arm-linux-gcc  --with-alsa-inc-prefix=/home/tonyho/tq2440/MP3/alsa-lib-1.0.27/libout/include  --with-alsa-prefix=/home/tonyho/tq2440/MP3/alsa-lib-1.0.27/libout/lib  --disable-xmlto --disable-alsamixer
